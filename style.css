@@ -49,7 +49,7 @@ body{
         margin: auto;
         padding-right: 10px;
         padding-left: 10px;
-        margin-bottom: 30px;
+        padding-bottom: 30px;
     }
     a.external:after{
         content:'/U+1F517'
